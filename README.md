@@ -23,9 +23,11 @@
   <img align="center" alt="Higor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Higor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Higor-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+   
+   ![Snake animation](https://github.com/HigorChagas/HigorChagas/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  ![Snake animation](https://github.com/HigorChagas/HigorChagas/blob/output/github-contribution-grid-snake.svg)
+  
 
   
 
