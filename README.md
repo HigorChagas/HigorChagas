@@ -1,4 +1,4 @@
-<h1 align="center">Oi! <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> Eu sou o Higor Chagas</h1>
+<h1 align="center">Oi! <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="10px"> Eu sou o Higor Chagas</h1>
 
 <div align="center"> 
 
