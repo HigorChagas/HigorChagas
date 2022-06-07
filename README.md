@@ -16,7 +16,7 @@
 </div>
   
   <div align="center">
-    ![image](https://www.codewars.com/users/HigorChagas/badges/large)
+    <img src="https://www.codewars.com/users/HigorChagas/badges/large" />
   </div>
   
  <div align="center" style="display: inline_block" width="40" height="30"><br>
