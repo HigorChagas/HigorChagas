@@ -15,7 +15,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorChagas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
+  <div align="center">
+    ![image](https://www.codewars.com/users/HigorChagas/badges/large)
+  </div>
   
  <div align="center" style="display: inline_block" width="40" height="30"><br>
   <img align="center" alt="Higor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
