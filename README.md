@@ -1,10 +1,6 @@
-<h1 align="center">Oi! Eu sou o Higor Chagas</h1>
+# Olá, eu sou Higor Chagas
 
-<div align="center"> 
-  <a href = "mailto:higornchagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/higor-chagas-987400151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-  
-<div align="center">
-  <img src="https://www.codewars.com/users/HigorChagas/badges/large" />
-</div>
+- 🎯 Desenvolvedor backend com foco em Python
+- 📚 Estudando Go e C para expandir meus conhecimentos
+- 🚀 Focado em desenvolvimento web, APIs e automações
+- 🎓 Atualmente aprimorando minhas habilidades na [Boot.dev](https://boot.dev)
