@@ -1,6 +1,6 @@
-# Olá, eu sou Higor Chagas
+# Hi, I'm Higor Chagas
 
-- 🎯 Desenvolvedor backend com foco em Python e JavaScript
-- 📚 Estudando Go e C para expandir meus conhecimentos
-- 🚀 Focado em desenvolvimento web, APIs e automações
-- 🎓 Atualmente aprimorando minhas habilidades na [Boot.dev](https://boot.dev)
+🎯 Backend developer working with Python and JavaScript  
+📚 Learning Go and C to expand my skills  
+🚀 Building web apps, APIs, and automation tools  
+🎓 Improving my skills at [Boot.dev](https://boot.dev)
